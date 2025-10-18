@@ -4,7 +4,7 @@ Memory Game is a fun and colorful card-matching game where players flip cards to
 
 🎮 **Built with React** — interactive UI, component-based structure, and smooth game logic.
 
-🔗 **Live Demo**: [mateuszmiernik.github.io/typing-game](https://mateuszmiernik.github.io/memory-game/)
+🔗 **Live Demo**: [mateuszmiernik.github.io/memory-game](https://mateuszmiernik.github.io/memory-game/)
 
 ---
 
